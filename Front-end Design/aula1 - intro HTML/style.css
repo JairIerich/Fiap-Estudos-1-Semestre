@@ -1,0 +1,27 @@
+a{
+    font-family: Roboto, calibri, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a1a;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+p{
+    font-family: Roboto, calibri, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+
+    color: rgb(132, 0, 255);
+
+    text-align: justify;
+    text-indent: 40px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 5px;    
+
+}
+
+h2{
+    text-shadow: 2px 2px 3px red;
+}
