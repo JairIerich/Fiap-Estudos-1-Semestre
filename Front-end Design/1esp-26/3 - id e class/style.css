@@ -1,0 +1,17 @@
+#lista {
+    display: flex;
+}
+
+.card {
+    width: 200px;
+    height: 70px;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+#destaque {
+    background-color: lightcoral;
+}

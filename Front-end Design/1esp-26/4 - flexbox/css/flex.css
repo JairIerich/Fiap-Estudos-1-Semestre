@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+
+    
+}
+
+#modelo-1 {
+    fle-direction: colomn; /*coluna vertical */
+    flex-wrap: nowrap;
+},,,,
+
+
+#mo delo-2 {
+    flex-direction: row; /*linha horizontal */
+    /*row valor padrao */
+
+    flex-wrap: wrap;
+}
+
+#modelo-3 {
+    flex-direction: column-reverse;
+}
+
+#modelo-4 {
+    flex-direction: row-reverse;
+}
